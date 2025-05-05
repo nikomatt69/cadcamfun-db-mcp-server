@@ -259,4 +259,4 @@ You can fork this package or use it as a base to add your own custom resources a
 
 ## License
 
-[Specify Your License Here] 
+[MIT] 
